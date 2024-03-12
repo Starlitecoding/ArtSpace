@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007917845020",
+    "project_id": "artspace-a2ea1",
+    "storage_bucket": "artspace-a2ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007917845020:android:ab8f7b52f650fca3d7edd9",
+        "android_client_info": {
+          "package_name": "com.example.artspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYen1BAnNlAFuvqmKxqIdW3sf45ytK5PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
